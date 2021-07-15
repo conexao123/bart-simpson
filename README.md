@@ -26,3 +26,11 @@ printf("DIGITE X E Y pertencentes aos naturais:\n");
          div = x / y;
 printf( "\nA soma de X e Y: %i\n", soma );
 printf( "\nA subtraçao X e Y: %i\n ", subtracao );
+printf( "\nO produto de X e Y: %i\n", multi );
+printf( "\nA divisao de X e Y: %i\n", div );
+
+
+
+
+return 0;
+}
